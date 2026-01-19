@@ -93,7 +93,7 @@ I’ve built AI systems that **reduced customer support response time by 60%** a
 ## 📫 Connect With Me
 - **Email:** nkdpm78@gmail.com  
 - **LinkedIn:** [linkedin.com/in/nithishkumarm78](https://www.linkedin.com/in/nithishkumarm78)
-
+- **leetcode:** https://leetcode.com/u/nk78/
 ---
 
 ⭐ *Feel free to explore my repositories and reach out if you’d like to collaborate!*
